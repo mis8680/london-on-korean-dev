@@ -26,7 +26,7 @@
             <!-- content wrapper -->
             <div class="content-wrap">
                 <!-- content goes here -->
-                <my-app>Loading...</my-app>
+                <my-app>Test...</my-app>
             </div>
             <!-- /content wrapper -->
             <a class="exit-offscreen"></a>
